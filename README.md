@@ -2,7 +2,7 @@
 
 World Scaled Software & Machine Learning Engineer
 
-![image](https://user-images.githubusercontent.com/121934188/225027851-cacc36b8-7277-4848-bd25-0d05e9f226e9.png)
+![image](https://user-images.githubusercontent.com/121934188/225028578-a2a8d3c7-111e-463f-98e0-1ec079da7af6.png)
 
 RESUME: https://melvinlang.hackerresume.io/b0a7f1be-67a7-4795-b69e-d1645a3f4666
 
