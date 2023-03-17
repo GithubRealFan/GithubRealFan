@@ -13,8 +13,6 @@
 
 ![image](https://user-images.githubusercontent.com/121934188/225026460-1fc30943-1837-48c3-9cd1-d938f69eb17f.png)
 
-📊 My github status:
-
 
 # 📊 My github status:
 ![](https://github-readme-stats.vercel.app/api?username=GithubRealFan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
