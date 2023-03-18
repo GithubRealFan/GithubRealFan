@@ -11,7 +11,7 @@
 • Developed and implemented algorithms for data analysis and optimization
 
 
-![image](https://user-images.githubusercontent.com/121934188/225026460-1fc30943-1837-48c3-9cd1-d938f69eb17f.png)
+![image](https://user-images.githubusercontent.com/121934188/226129923-7179b0a8-14e0-426f-9ee7-2ef54433bf83.png)
 
 
 # 📊 My github status:
