@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-# Portfolio
+# Portfolio:
 
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/226113532-cd583027-17b7-4657-b3c0-9a148ec113a4.JPG" title="CUDA" alt="CUDA" width="200" height="110"/>&nbsp;
