@@ -34,4 +34,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
+# CUDA Programming for AI Deep Learning & Crypto Minning
+
+![Nvidia-cuda-ai-dl2](https://user-images.githubusercontent.com/121934188/226113532-cd583027-17b7-4657-b3c0-9a148ec113a4.JPG)
+
+# Algo Trading Projects
+
+![kucoin_trading_bot](https://user-images.githubusercontent.com/121934188/226113562-b69a9675-29ce-4948-87c7-c4483c99a017.jpg)
+
+# ChatGPT API
+
+![chatgptapi](https://user-images.githubusercontent.com/121934188/226113605-a2fa9ac5-6cf1-4f2e-8b9c-7556633dea64.png)
+
+# Webstie Design
+
+![123](https://user-images.githubusercontent.com/121934188/226113620-27ed95ce-b228-4354-ac46-a83704ae258e.png)
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
