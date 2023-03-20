@@ -10,11 +10,13 @@
 
 • Developed and implemented algorithms for data analysis and optimization
 
+![image](https://user-images.githubusercontent.com/121934188/226463575-86ebe410-22a6-42e0-8df8-6da0b135ac22.png)
+
 <div>
-![image](https://user-images.githubusercontent.com/121934188/226129923-7179b0a8-14e0-426f-9ee7-2ef54433bf83.png)
-  ![image](https://user-images.githubusercontent.com/121934188/226462832-73546a70-851f-4ffc-ab81-0bebe5fea68c.png)
-![image](https://user-images.githubusercontent.com/121934188/226463038-677f61b0-69bc-4000-b196-6ec565d0ea6e.png)
-![image](https://user-images.githubusercontent.com/121934188/226463205-9453387a-51b2-41b0-b323-1ea94b3a3c9d.png)
+  <img src="https://user-images.githubusercontent.com/121934188/226129923-7179b0a8-14e0-426f-9ee7-2ef54433bf83.png" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226462832-73546a70-851f-4ffc-ab81-0bebe5fea68c.png" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226463038-677f61b0-69bc-4000-b196-6ec565d0ea6e.png" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226463205-9453387a-51b2-41b0-b323-1ea94b3a3c9d.png" title="GO" alt="GO" width="40" height="40"/>&nbsp;
 
 <div>
 
