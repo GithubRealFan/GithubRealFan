@@ -13,10 +13,10 @@
 ![image](https://user-images.githubusercontent.com/121934188/226463575-86ebe410-22a6-42e0-8df8-6da0b135ac22.png)
 
 <div>
-  <img src="https://user-images.githubusercontent.com/121934188/226462832-73546a70-851f-4ffc-ab81-0bebe5fea68c.png" title="JS" alt="JS" width="200" height="110"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/121934188/226463038-677f61b0-69bc-4000-b196-6ec565d0ea6e.png" title="SQL" alt="SQL" width="200" height="110"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/121934188/226463205-9453387a-51b2-41b0-b323-1ea94b3a3c9d.png" title="GO" alt="GO" width="200" height="110"/>&nbsp;
-
+  <img src="https://user-images.githubusercontent.com/121934188/226462832-73546a70-851f-4ffc-ab81-0bebe5fea68c.png" title="JS" alt="JS" width="200" height="120"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226463038-677f61b0-69bc-4000-b196-6ec565d0ea6e.png" title="SQL" alt="SQL" width="200" height="120"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226463205-9453387a-51b2-41b0-b323-1ea94b3a3c9d.png" title="GO" alt="GO" width="200" height="120"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226465203-b7d40d7c-8d83-4b8e-8528-85f44766129c.png" title="R" alt="R" width="200" height="120"/>&nbsp;
 <div>
 
 # 📊 My github status:
