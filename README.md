@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/121934188/226129923-7179b0a8-14e0-426f-9ee7-2ef54433bf83.png)
 
-[r_intermediate certificate.pdf](https://github.com/GithubRealFan/GithubRealFan/files/11022950/r_intermediate.certificate.pdf)
+![image](https://user-images.githubusercontent.com/121934188/226462486-481e9cbd-7aa8-44c6-9654-bc28e4ab0714.png)
 
 # 📊 My github status:
 ![](https://github-readme-stats.vercel.app/api?username=GithubRealFan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
