@@ -10,8 +10,9 @@
 
 • Developed and implemented algorithms for data analysis and optimization
 
-![image](https://user-images.githubusercontent.com/121934188/226463575-86ebe410-22a6-42e0-8df8-6da0b135ac22.png)
+![image](https://user-images.githubusercontent.com/121934188/226465757-a6a4ed0d-ac18-4c29-92a8-3771824f7cdf.png)
 
+# My certificates👩:
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/226462832-73546a70-851f-4ffc-ab81-0bebe5fea68c.png" title="JS" alt="JS" width="200" height="120"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/121934188/226463038-677f61b0-69bc-4000-b196-6ec565d0ea6e.png" title="SQL" alt="SQL" width="200" height="120"/>&nbsp;
@@ -39,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
-# Portfolio:
+# 💻Portfolio:
 
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/226113532-cd583027-17b7-4657-b3c0-9a148ec113a4.JPG" title="CUDA" alt="CUDA" width="200" height="110"/>&nbsp;
