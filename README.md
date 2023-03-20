@@ -22,7 +22,7 @@
   <img src="https://user-images.githubusercontent.com/121934188/226467271-00f038e8-ea77-4c47-b1e1-e938772a8ba0.png" title="ProblemSolving" alt="ProblemSolving" width="205" height="140"/>&nbsp;
     <img src="https://user-images.githubusercontent.com/121934188/226467544-4fe1934d-eb91-4955-9ae4-a86ae3e371d2.png" title="Python" alt="Python" width="205" height="140"/>&nbsp;
       <img src="https://user-images.githubusercontent.com/121934188/226467797-3e3ecd12-deb8-480a-a25d-c13153a8766f.png" title="RestAPI" alt="RestAPI" width="205" height="140"/>&nbsp;
- <div>
+ </div>
 
 # 📊 My github status:
 ![](https://github-readme-stats.vercel.app/api?username=GithubRealFan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
