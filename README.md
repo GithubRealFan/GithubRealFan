@@ -13,7 +13,7 @@
 
 ![image](https://user-images.githubusercontent.com/121934188/226129923-7179b0a8-14e0-426f-9ee7-2ef54433bf83.png)
 
-![](https://www.hackerrank.com/certificates/afa7129528cd)
+[Uploading r_intermediate certificate.pdf…](https://www.hackerrank.com/certificates/afa7129528cd)
 
 # 📊 My github status:
 ![](https://github-readme-stats.vercel.app/api?username=GithubRealFan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
