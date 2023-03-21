@@ -40,8 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
@@ -49,10 +49,10 @@
 # 💻Portfolio:
 
 <div>
-  <img src="https://user-images.githubusercontent.com/121934188/226113532-cd583027-17b7-4657-b3c0-9a148ec113a4.JPG" title="CUDA" alt="CUDA" width="200" height="110"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/121934188/226113605-a2fa9ac5-6cf1-4f2e-8b9c-7556633dea64.png" title="ChatGPT" alt="ChatGPT" width="200" height="110"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/121934188/226113620-27ed95ce-b228-4354-ac46-a83704ae258e.png" title="FrontEnd" alt="FrontEnd" width="200" height="110"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/121934188/226114134-b7a63a0f-3167-4d86-b580-2d23654cfcc8.jpg" title="Trading" alt="Trading" width="200" height="110"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226113532-cd583027-17b7-4657-b3c0-9a148ec113a4.JPG" title="CUDA" alt="CUDA" width="205" height="120"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226113605-a2fa9ac5-6cf1-4f2e-8b9c-7556633dea64.png" title="ChatGPT" alt="ChatGPT" width="205" height="120"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226113620-27ed95ce-b228-4354-ac46-a83704ae258e.png" title="FrontEnd" alt="FrontEnd" width="205" height="120"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/121934188/226114134-b7a63a0f-3167-4d86-b580-2d23654cfcc8.jpg" title="Trading" alt="Trading" width="205" height="120"/>&nbsp;
 </div>
 
 
