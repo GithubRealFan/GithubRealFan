@@ -9,7 +9,7 @@
 • Ability to write various programs for different devices
 
 • Developed and implemented algorithms for data analysis and optimization
-
+ 
 ![image](https://user-images.githubusercontent.com/121934188/228971579-8336c7da-3a51-4342-b130-3b0771dfdcac.png)
 
  
