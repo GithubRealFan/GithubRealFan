@@ -10,7 +10,8 @@
 
 • Developed and implemented algorithms for data analysis and optimization
  
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/121934188/231032136-5c0d4544-f3a9-4049-830f-1645159c1c92.png)
+
 
  
 # My certificates👩:
