@@ -2,8 +2,6 @@
 
 # [World Scaled Software & Machine Learning Engineer](https://melvinlang.hackerresume.io/b0a7f1be-67a7-4795-b69e-d1645a3f4666)
 
-Please contact here : live:.cid.b735d15923e1d221
-
 • Collaborated with team members to develop and maintain software applications
 
 • Conducted big data processing for machine learning and has strong database management capabilities
