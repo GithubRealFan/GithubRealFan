@@ -1,4 +1,3 @@
-# Melvin Lang
 
 # [World Scaled Software & Machine Learning Engineer](https://melvinlang.hackerresume.io/b0a7f1be-67a7-4795-b69e-d1645a3f4666)
 
