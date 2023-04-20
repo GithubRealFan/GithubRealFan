@@ -10,7 +10,7 @@
 
 • Developed and implemented algorithms for data analysis and optimization
 
-![image](https://user-images.githubusercontent.com/121934188/231032136-5c0d4544-f3a9-4049-830f-1645159c1c92.png)
+![image](https://user-images.githubusercontent.com/121934188/233322962-14c906e3-d1a8-45eb-821c-12609342b917.png)
 
 
  
