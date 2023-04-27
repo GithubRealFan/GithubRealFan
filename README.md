@@ -11,7 +11,7 @@
 
 ------------------------------------------------------------------------
 
-• 🥇 Software Engineer: Thread Process, CUDA, C/C++/C#/Java, Embedded
+• 🥇 Software Engineer: Thread Process, CUDA, C/C++/C#/Java/Python/Matlab, Embedded
 
 • 🥇 Machine Learning Engineer: NLP, RNN, GAN (Pytorch, Tensorflow)
 
