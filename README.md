@@ -2,11 +2,17 @@
 # [World Scaled Software & Machine Learning Engineer](https://melvinlang.hackerresume.io/b0a7f1be-67a7-4795-b69e-d1645a3f4666)
 
 • Collaborated with team members to develop and maintain software applications
- • Conducted big data processing for machine learning and has strong database management capabilities
+
+• Conducted big data processing for machine learning and has strong database management capabilities
+
 • Ability to write various programs for different devices
+
 • Developed and implemented algorithms for data analysis and optimization
+
 ------------------------------------------------------------------------
+
 • 🥇 Software Engineer: Thread Process, CUDA, C/C++/C#/Java, Embedded
+
 • 🥇 Machine Learning Engineer: NLP, RNN, GAN (Pytorch, Tensorflow)
 • 🥈 Backend Development: Ruby on Rails Node.js, PHP ( Laravel )
 • 🥈 Hybrid Mobile App Development: React-Native
