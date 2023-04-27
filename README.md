@@ -33,6 +33,14 @@
 
 ---
 
+🥇 Software Engineer: Thread Process, CUDA, C/C++/C#/Java, Embedded
+🥇 Machine Learning Engineer: NLP, RNN, GAN (Pytorch, Tensorflow)
+🥈 Backend Development: Ruby on Rails Node.js, PHP ( Laravel )
+🥈 Hybrid Mobile App Development: React-Native
+🥈 Frontend Development: Javascript, Typescript, React.js ( Gatsby, Next.js )
+🥈 DevOps: CircleCI, Jenkins, Github Actions, Bitbucket Pipeline, Bitrise
+🥉 Test Framework: Jest, Mocha/Chai, Protractor, Jasmine
+
 # Skills👩🏻‍💻:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
