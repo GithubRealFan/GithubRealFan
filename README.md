@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/121934188/233326355-cb27c8e4-a74a-4558-8a43-0b6295be14b1.png)
 
- 
+
 # My certificates👩:
 <div>
   <img src="https://user-images.githubusercontent.com/121934188/226462832-73546a70-851f-4ffc-ab81-0bebe5fea68c.png" title="JS" alt="JS" width="205" height="140"/>&nbsp;
