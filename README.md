@@ -1,6 +1,5 @@
  
 # [World Scaled - Software | Machine Learning Engineer](https://drive.google.com/file/d/1D29bgrzzQCc22NWk-25xmJUhVGg555Kh/view?usp=share_link)
-------------------------------------------------------------------------
 
 • 👨‍👨‍👧 Collaborated with team members to develop and maintain software applications
 
