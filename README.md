@@ -13,7 +13,7 @@
 
 • 🥇 Software Engineer: Thread Process, CUDA, C/C++/C#/Java/Python/Matlab, BigDataProcessing, ioT/Embedded
 
-• 🥇 Machine Learning Engineer: NLP, RNN, GAN (Pytorch, Tensorflow)
+• 🥇 Machine Learning Engineer: NLP, RNN, GPT, GAN (Pytorch, Tensorflow)
 
 • 🥇 Backend Development: ASP.Net, Django, Node.js, PHP
 
