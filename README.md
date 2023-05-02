@@ -15,7 +15,7 @@
 
 • 🥇 Machine Learning Engineer: NLP, RNN, GPT, GAN (Pytorch, Tensorflow)
 
-• 🥇 Backend Development: ASP.Net, Django, Node.js, PHP
+• 🥇 Backend Development: ASP.Net, Django, Node.js, PHP, RestAPI
 
 • 🥈 Hybrid Mobile App Development: React-Native
 
