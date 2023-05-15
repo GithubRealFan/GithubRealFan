@@ -8,7 +8,7 @@
 • 💾 Ability to write various programs for different devices
 
 • 🏆 Developed and implemented algorithms for data analysis and optimization
- 
+
 ------------------------------------------------------------------------
 
 • 🥇 Software Engineer: Thread Process, CUDA, C/C++/C#/Java/Python/Matlab, BigDataProcessing, ioT/Embedded
