@@ -6,7 +6,7 @@
 • 📂 Conducted big data processing for machine learning and has strong database management capabilities
 
 • 💾 Ability to write various programs for different devices
-
+ 
 • 🏆 Developed and implemented algorithms for data analysis and optimization
 
 ------------------------------------------------------------------------
