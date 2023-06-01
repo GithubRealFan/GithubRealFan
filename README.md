@@ -2,6 +2,7 @@
 # [Melvin Lang (Software Engineer)](https://drive.google.com/file/d/1AkFKJwRcXcCDlHLsdlWauZ8q-5uhkE1I/view?usp=sharing)
 
 • 👨‍👨‍👧 Collaborated with team members to develop and maintain software applications
+
 • 📂 Conducted big data processing for machine learning and has strong database management capabilities
 
 • 💾 Ability to write various programs for different devices
