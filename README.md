@@ -13,6 +13,8 @@
 
 • 🥇 Software Engineer: Thread Process, CUDA, C/C++/C#/Java/Python/Matlab, BigDataProcessing, ioT/Embedded
 
+• 🥇 Data Analytics: Identify new opportunities and potential risks, Optimize business processes and operations, powerful math and algorithm technology
+
 • 🥇 Machine Learning Engineer: NLP, RNN, GPT, GAN (Pytorch, Tensorflow)
 
 • 🥇 Backend Development: ASP.Net, Golang, Django, Node.js, PHP, RestAPI
