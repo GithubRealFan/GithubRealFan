@@ -1,6 +1,126 @@
  
 # [Melvin Lang (Software Engineer | Data Analytics)](https://drive.google.com/file/d/1AkFKJwRcXcCDlHLsdlWauZ8q-5uhkE1I/view?usp=sharing)
 
+<svg fill="none" viewBox="0 0 800 400" width="800" height="300" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+        :root{
+          --main: #330100;
+          --mainTransparent: #33010069;
+          --primary: #FDFF30;
+          --secondary: #FE0094;
+        }
+        html,body{
+          padding: 0;
+          margin:0;
+        }
+        #profile-them{
+          display: flex;
+          justify-content: space-around;
+          align-items: center;
+        }
+        .card{
+          animation-name: skew;
+          animation-duration: 2s;
+          color: var(--secondary);
+          background: linear-gradient(90deg, rgba(51,1,0,1) 0%, rgba(51,1,0,0.5130427170868348) 100%);
+          margin: 10px 10px;
+          padding: 10px 10px;
+          border-radius: 10px;
+          position: relative;
+          border: 5px solid var(--secondary);
+          font-weight: bold;
+          position: relative;
+          width: 80%;
+          margin-left: 10%;
+          margin-top: 3%;
+          font-family: 'Fredoka', sans-serif;
+        box-shadow: 0 0 10px 0 var(--main);
+        }
+
+        @keyframes skew{
+          from{
+            transform: skew(5deg, 5deg);
+          }
+          70%{
+            transform: skew(-5deg, -5deg);
+          }
+          to{
+            transform: skew(0, 0);
+          }
+        }
+
+        .card p{
+          margin: 2px;
+          margin-left: 30px;
+        }
+        .card h2{
+          color: var(--primary);
+          border-bottom: 5px solid var(--secondary);
+          padding-bottom: 5px;
+          margin-top: 0;
+        }
+
+        #profile-image{
+          background-image: url('../images/my avatar.jpg');
+          background-size: contain;
+          background-position: top right;
+          background-repeat: no-repeat;
+          position: absolute;
+          border-radius: 10px;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          z-index: -1;
+        }
+        #top-bottom-dv .top, #top-bottom-dv .bottom{
+          background-color: var(--primary);
+          animation-name: rotate-slow;
+          animation-iteration-count: infinite;
+          animation-duration: 4s;
+          min-width: 50px;
+          min-height: 50px;
+          position: absolute;
+          top: -25px;
+          left: -25px;
+          z-index: -1;
+          border-radius: 10px;
+        }
+        #top-bottom-dv .bottom{
+          top: 95%;
+          left: 95%;
+          background-color: var(--secondary);
+        }
+        @keyframes rotate-slow{
+          from{
+            transform: rotate(0deg);
+          }
+          to{
+            transform: rotate(180deg);
+          }
+        }
+			</style>
+      <article class='card'>
+        <h2> About me! 💁‍♂️</h2>
+        <p>😎: I’m a full stack web developer. ✌</p>
+        <p>😉: I am into blockchain technology. 🤗</p>
+        <p>🏠: I’m working from home 🌐</p>
+        <p>🖥️: Prefer to work on frontend development.👷‍♂️</p>
+        <p>🤗: Enjoy coding more than enjoy itself 😀 </p>
+        <p>🎉: Working on a project? Allow me to help, say hi 👋</p>
+        <div id='top-bottom-dv'>
+          <div class='top'>
+          </div>
+          <div class='bottom'>
+          </div>
+        </div>
+      </article>
+    </div>
+	</foreignObject>
+</svg>
+
 • 👨‍👨‍👧 Collaborated with team members to develop and maintain software applications
 
 • 📂 Conducted big data processing for machine learning and has strong database management capabilities
